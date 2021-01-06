@@ -1,4 +1,0 @@
-Wikipedia: 
-URL: https://en.wikipedia.org/wiki/List_of_American_films_of_<year>
-Get the movie names from the above link.
-In all the tables, all cells of the column 'title'

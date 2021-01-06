@@ -1,0 +1,12 @@
+Wikipedia: 
+URL: https://en.wikipedia.org/wiki/List_of_American_films_of_<year>
+Get the movie names from the above link.
+In all the tables, all cells of the column 'title'
+
+RottenTomatoes:
+Movie Link: Employ directly and appending year to it
+Have a check for year matching
+if the link does not have status 200, try the search mechanism
+
+Search Mechanism: Use Selenium!!!
+Reviews: Use Selenium!!!!
