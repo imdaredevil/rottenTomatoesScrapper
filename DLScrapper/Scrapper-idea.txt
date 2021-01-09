@@ -8,5 +8,6 @@ Movie Link: Employ directly and appending year to it
 Have a check for year matching
 if the link does not have status 200, try the search mechanism
 
-Search Mechanism: Use Selenium!!!
+Search Mechanism: Use Google - movie year RottenTomatoes 
+
 Reviews: Use Selenium!!!!

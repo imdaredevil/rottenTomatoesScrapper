@@ -35,5 +35,5 @@ if __name__ == '__main__':
         url = sys.argv[-1]
         print(getMovieDetails(url))
     else:
-        print('The format is python <filename> <movie name>')
+        print('The format is python <filename> <movie url>')
 
